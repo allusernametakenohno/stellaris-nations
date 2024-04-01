@@ -1,9 +1,11 @@
 [
 	{
 		"name": "vertical farms",
+		"replaces": "monument";
 		"cost": 130,
 		"happiness": 1,
 		"food": 10,
+		"uniques":["Discover Sailing"],
 		"maintenance": 1,
 	},
 	{

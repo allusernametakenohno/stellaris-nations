@@ -1,16 +1,17 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
+		"name": "vertical farms",
+		"cost": 150,
+		"happiness": 1,
+		"food": 10,
 		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "industry",
+		"cost": 150,
+		"happiness": 1,
+		"production": 10,
+		"maintenance": 96,
 	},
 	{
 		"name": "Breeders",

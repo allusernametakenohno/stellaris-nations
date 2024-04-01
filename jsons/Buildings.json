@@ -1,14 +1,14 @@
 [
 	{
 		"name": "vertical farms",
-		"cost": 200,
+		"cost": 130,
 		"happiness": 1,
 		"food": 10,
 		"maintenance": 1,
 	},
 	{
 		"name": "industry",
-		"cost": 200,
+		"cost": 130,
 		"happiness": 1,
 		"production": 10,
 		"maintenance": 1,

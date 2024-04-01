@@ -1,17 +1,17 @@
 [
 	{
 		"name": "vertical farms",
-		"cost": 150,
+		"cost": 200,
 		"happiness": 1,
 		"food": 10,
-		"maintenance": 96,
+		"maintenance": 1,
 	},
 	{
 		"name": "industry",
-		"cost": 150,
+		"cost": 200,
 		"happiness": 1,
 		"production": 10,
-		"maintenance": 96,
+		"maintenance": 1,
 	},
 	{
 		"name": "Breeders",

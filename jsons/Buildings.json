@@ -1,7 +1,7 @@
 [
 	{
 		"name": "vertical farms",
-		"replaces": "monument",
+		"replaces": "Monument",
 		"cost": 130,
 		"happiness": 1,
 		"food": 10,

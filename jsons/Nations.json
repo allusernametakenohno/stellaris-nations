@@ -27,8 +27,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [0,0,255],
+		"innerColor": [100,0,255],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Earth","alpha centauri b","alpha centauri c","copper 9","kepler 150 a","kepler 2635 c","kepler 654 d","kepler 123 a","kepler 142a","kepler 2452 a","kepler245 a","kepler 243a","kepler254 a","kepler242 a","kepler234 a","kepler545 a","kepler254 a"]
 	},
@@ -60,8 +60,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [250,0,0],
+		"innerColor": [0,0,0],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["unity","kepler 12345","kepler 5452354","kepler 43124","kepler 42124","kepler 413412","kepler 25454","kepleria","totaliria",
 			"second earth","Neu Berlin","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
@@ -96,7 +96,7 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
+		"outerColor": [250,250,250],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Auto Prime","Auto 002","Auto 003","Auto 004","Auto 005","Auto 006","Auto 007","Auto 008","Auto 009","Auto 010","Auto 011","Auto 012","Auto 013"]
@@ -129,7 +129,7 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
+		"outerColor": [16,216,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["xenocorp","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
